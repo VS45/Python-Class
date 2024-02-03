@@ -1,0 +1,4 @@
+Class work
+
+1 write python algorithm that accept 2 user input from the keyboard and multiply the two inputs which should be numbers
+Print the result in the console 
