@@ -5,5 +5,5 @@ try:
     numb2=int(input("enter your second number: "))
 except ValueError as ve:
     print("Wrong value: ",ve)
-product=numb1+numb2
+product=numb1*numb2
 print(product)
